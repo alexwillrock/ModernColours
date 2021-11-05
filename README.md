@@ -1,4 +1,4 @@
-<img align=top src="https://developer.apple.com/swift/images/swift-logo.svg" width="36" height="36">   ModerColors: A lightweight framework including modern color palette
+<img align=top src="https://developer.apple.com/swift/images/swift-logo.svg" width="36" height="36">   ModernColours: A lightweight framework including modern color palette
 ======================================
 
 - [Requirements](#requirements) 
@@ -21,7 +21,7 @@ The preferred way of installing SwiftUIX is via the [Swift Package Manager](http
 >Xcode 12 integrates with libSwiftPM to provide support for iOS.
 
 1. In Xcode, open your project and navigate to **File** → **Swift Packages** → **Add Package Dependency...**
-2. Paste the repository URL (`https://github.com/alexwillrock/ModernColors`) and click **Next**.
+2. Paste the repository URL (`https://github.com/alexwillrock/ModernColours`) and click **Next**.
 3. For **Rules**, select **Branch** (with branch set to `master`).
 3. Or for **Rules**, select **Tag** (with tag set to most fresh)
 4. Click **Finish**.
@@ -56,4 +56,4 @@ TagsGridView is licensed under the [MIT License](https://vmanot.mit-license.org)
 
 # Credits
 
-ModerColors is a project of [@alexwillrock](https://github.com/alexwillrock).
+ModernColours is a project of [@alexwillrock](https://github.com/alexwillrock).
