@@ -44,7 +44,7 @@ struct ContentView: View {
 ### Visual
 
 
-![image](https://user-images.githubusercontent.com/6507402/140486294-b09c23b1-14f5-4d30-aa5b-1a4f8af44558.png)
+![image](https://user-images.githubusercontent.com/6507402/140488100-28a4fc4c-9fff-46c7-9b85-fc07cc48559b.png)
 # License
 
 TagsGridView is licensed under the [MIT License](https://vmanot.mit-license.org).
