@@ -111,7 +111,35 @@ public extension Color.Flat {
             Color.preparedFrom(hue: 48, saturation: 99, brightness: 100)
         }
         
+        public static var all: [Color] {
+            [.Flat.Light.black,
+             .Flat.Light.blue,
+             .Flat.Light.coffee,
+             .Flat.Light.forestGreen,
+             .Flat.Light.gray,
+             .Flat.Light.green,
+             .Flat.Light.lime,
+             .Flat.Light.magenta,
+             .Flat.Light.maroon,
+             .Flat.Light.mint,
+             .Flat.Light.black,
+             .Flat.Light.navyBlue,
+             .Flat.Light.orange,
+             .Flat.Light.pink,
+             .Flat.Light.plum,
+             .Flat.Light.powderBlue,
+             .Flat.Light.purple,
+             .Flat.Light.red,
+             .Flat.Light.sand,
+             .Flat.Light.skyBlue,
+             .Flat.Light.teal,
+             .Flat.Light.watermelon,
+             .Flat.Light.white,
+             .Flat.Light.yellow]
+        }
+        
         private init() { }
+
         
     }
 }
@@ -120,7 +148,6 @@ public extension Color.Flat {
 
 public extension Color.Flat {
     struct Dark {
-        private init() { }
         
         public static var black: Color {
             Color.preparedFrom(hue: 0, saturation: 0, brightness: 15)
@@ -209,6 +236,36 @@ public extension Color.Flat {
         public static var yellow: Color {
             Color.preparedFrom(hue: 40, saturation: 100, brightness: 100)
         }
+        
+        public static var all: [Color] {
+            [.Flat.Light.black,
+             .Flat.Light.blue,
+             .Flat.Light.coffee,
+             .Flat.Light.forestGreen,
+             .Flat.Light.gray,
+             .Flat.Light.green,
+             .Flat.Light.lime,
+             .Flat.Light.magenta,
+             .Flat.Light.maroon,
+             .Flat.Light.mint,
+             .Flat.Light.black,
+             .Flat.Light.navyBlue,
+             .Flat.Light.orange,
+             .Flat.Light.pink,
+             .Flat.Light.plum,
+             .Flat.Light.powderBlue,
+             .Flat.Light.purple,
+             .Flat.Light.red,
+             .Flat.Light.sand,
+             .Flat.Light.skyBlue,
+             .Flat.Light.teal,
+             .Flat.Light.watermelon,
+             .Flat.Light.white,
+             .Flat.Light.yellow]
+        }
+        
+        private init() { }
+
     }
 }
 
